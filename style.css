@@ -1,0 +1,232 @@
+@font-face {
+    font-family: iran;
+    src: url(IRANSansX-Black.woff2);
+}
+@font-face {
+    font-family:sans-iran ;
+    src: url(IRANSansX-Medium.woff2);
+}
+
+body{
+    background-image:radial-gradient(rgb(175, 175, 94),rgb(0, 183, 255),rgb(22, 172, 22));
+    margin: 0;
+    
+   
+}
+.header{
+    background-color: rgb(0, 15, 80);
+    color: rgb(0, 0, 0);
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    font-family: iran;
+    
+
+}
+
+.header #img{
+    width: 170px;
+    height: 120px;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+
+}
+a:hover{
+    color: rgb(16, 159, 3);
+    transform: translateY(-3px);
+   
+   
+    
+
+  }
+#main-box{
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+
+.main-boox{
+    font-size: 20px;
+    text-align: center;
+}
+.main-bbox{
+    font-size: 20px;
+    text-align: center;
+}
+hr{
+    color: rgb(0, 0, 68);
+}
+
+
+   
+
+button{
+    background: blue;
+    color: white;
+    width: 300px;
+    height: 100px;
+    border-radius: 50px;
+    font-size: 30px;
+    font-family: iran;
+
+}
+button:hover{
+    color: rgb(255, 0, 221);
+}
+#body{
+    background: rgb(0, 0, 0);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+
+}
+#header{
+    background-color: rgb(60, 163, 0);
+    display: block;
+    margin: 0px;
+    font-family: iran;
+   
+}
+#img{
+ width: 400px;
+    height: 200px;
+    margin: 0px;
+    border-radius: 20px;
+}
+
+
+#footer{
+    font-size: 100px;
+    font-weight: 500;
+    background: green;
+    height: 150px;
+    text-align: center;
+}
+@font-face {
+    font-family:sans-iran ;
+    src: url(IRANSansX-Medium.woff2);
+}
+.all-items{
+    font-size: 20px;
+    text-align: center;
+     font-family:sans-iran ;
+
+}
+#lissst{
+    font-size: 28px;
+     font-family:sans-iran ;
+}
+#imgg{
+    width: 700px;
+    height: 400px;
+    
+}
+#imggg{
+    width: 600px;
+    height: 700px;
+}
+
+.siasat-box{
+    font-size: 20px;
+    text-align: center;
+     font-family:sans-iran ;
+     
+}
+.elm-box{
+    font-size: 25px;
+    text-align: center;
+     font-family:sans-iran ;
+}
+.eghtesad-box{
+    font-size: 25px;
+    text-align: center;
+     font-family:sans-iran ;
+}
+#badane{
+   
+     font-family:sans-iran ;
+     font-size: 25px;
+}
+.footer {
+    background: #001747;
+    color: white;
+    margin-top: 40px;
+    padding-top: 40px;
+}
+
+.footer-container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.footer-item {
+    flex: 1;
+   
+ 
+    
+}
+
+.footer-item h3 {
+    font-size: 25px;
+    margin-bottom: 15px;
+    color: #ffffff;
+}
+
+.footer-item p {
+    line-height: 1.9;
+    font-size: 20px;
+    color: #ddd;
+}
+
+.footer-item ul {
+    list-style: none;
+}
+
+.footer-item ul li {
+    margin-bottom: 10px;
+}
+
+.footer-item ul li a {
+    color: #ddd;
+    text-decoration: none;
+  
+}
+
+.footer-item ul li a:hover {
+    color: #098a14;
+}
+
+
+.footer-bottom {
+    margin-top: 30px;
+    padding: 15px 20px;
+    text-align: center;
+    border-top: 1px solid #01004b;
+    background: #06003a;
+    font-size: 18px;
+    color: #ffffff;
+}
+img{
+    border: 3px solid rgb(18, 18, 80);
+   
+}
